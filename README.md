@@ -7,6 +7,7 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
   - [Preact Tools](#preact-tools)
     - [Boilerplates](#boilerplates)
     - [Routing](#routing)
+  - [Top Articles on Preact](#top-articles-on-preact)
   - [Preact Related Libraries](#preact-related-libraries)
 - [Contribution](#contribution)
   
@@ -35,7 +36,12 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 ##### Routing
 * [preact-router - :earth_americas: URL router for Preact](https://github.com/developit/preact-router)
 
-#### Preact Related Libraries
+### Top Articles on Preact
+* [WTF is JSX](https://jasonformat.com/wtf-is-jsx/)
+* [The Inner Workings Of Virtual DOM](https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf)
+* [Using Preact Instead Of React](https://medium.com/@rajaraodv/using-preact-instead-of-react-70f40f53107c)
+
+### Preact Related Libraries
 * [React - A declarative, efficient, and flexible JavaScript library for building user interfaces.](https://github.com/facebook/react)
 * [Inferno - An extremely fast, React-like JavaScript library for building modern user interfaces](https://github.com/infernojs/inferno)
 * [Rax - :tophat: A universal React-compatible render engine.](https://github.com/alibaba/rax.)
