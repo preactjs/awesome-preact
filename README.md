@@ -21,7 +21,7 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 * [Preact GitHub](https://github.com/developit/preact) :fire:
 
 #### Preact Community
-* [Preact Discussion Forum](https://preact.slack.com)
+* [Preact Discussion Forum](https://preact-slack.now.sh)
 * [Preact StackOverflow](https://stackoverflow.com/questions/tagged/preact)
 * [Preact Twitter](https://twitter.com/preactjs)
 
