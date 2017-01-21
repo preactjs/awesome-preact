@@ -46,7 +46,7 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 ### Preact Related Libraries
 * [React - A declarative, efficient, and flexible JavaScript library for building user interfaces.](https://github.com/facebook/react)
 * [Inferno - An extremely fast, React-like JavaScript library for building modern user interfaces](https://github.com/infernojs/inferno)
-* [Rax - :tophat: A universal React-compatible render engine.](https://github.com/alibaba/rax.)
+* [Rax - :tophat: A universal React-compatible render engine.](https://github.com/alibaba/rax)
 
 ---
 ### Contribution
