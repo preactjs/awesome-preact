@@ -31,7 +31,8 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 * [Official Boilerplate](https://github.com/developit/preact-boilerplate)
 * [Preact Simple Starter - Progressive web app boilerplate: Service Worker, Preact, Redux, Redux DevTools, Webpack 2, Webpack Dashboard, Testing, Linting, HMR ](https://github.com/ooade/PreactSimpleStarter)
 * [Preact Offline Starter - Webpack2 boilerplate for building SPA / PWA / offline front-end apps with Preact](https://github.com/lukeed/preact-starter)
-* [Ts Preact Starter - Barebones starter project for Preact with TypeScript](https://github.com/nickytonline/ts-preact-starter)
+* [nwb - A toolkit for React, Preact & Inferno apps, React libraries and other npm modules for the web, with no configuration (until you need it)](https://github.com/insin/nwb)
+* [TypeScript Preact Starter - Barebones starter project for Preact with TypeScript](https://github.com/nickytonline/ts-preact-starter)
 * [Preact-redux-ssr-example - Server-side Rendering with Redux Example](https://github.com/csbun/preact-redux-ssr-example)
 
 ##### Routing
