@@ -29,18 +29,18 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 #### Preact Tools
 
 ##### Toolkits
-* [nwb - A toolkit for React, Preact & Inferno apps, React libraries and other npm modules for the web, with no configuration (until you need it)](https://github.com/insin/nwb)
-* [react-app-rewire-preact - Use Preact with create-react-app without ejecting](https://github.com/timarney/react-app-rewired/tree/master/packages/react-app-rewire-preact)
+* [nwb](https://github.com/insin/nwb) - A toolkit for React, Preact & Inferno apps, React libraries and other npm modules for the web, with no configuration (until you need it)
+* [react-app-rewire-preact](https://github.com/timarney/react-app-rewired/tree/master/packages/react-app-rewire-preact) - Use Preact with create-react-app without ejecting
 
 ##### Boilerplates
 * [Official Boilerplate](https://github.com/developit/preact-boilerplate)
-* [Preact Simple Starter - Progressive web app boilerplate: Service Worker, Preact, Redux, Redux DevTools, Webpack 2, Webpack Dashboard, Testing, Linting, HMR ](https://github.com/ooade/PreactSimpleStarter)
-* [Preact Offline Starter - Webpack2 boilerplate for building SPA / PWA / offline front-end apps with Preact](https://github.com/lukeed/preact-starter)
-* [TypeScript Preact Starter - Barebones starter project for Preact with TypeScript](https://github.com/nickytonline/ts-preact-starter)
-* [Preact-redux-ssr-example - Server-side Rendering with Redux Example](https://github.com/csbun/preact-redux-ssr-example)
+* [Preact Simple Starter](https://github.com/ooade/PreactSimpleStarter) - Progressive web app boilerplate: Service Worker, Preact, Redux, Redux DevTools, Webpack 2, Webpack Dashboard, Testing, Linting, HMR
+* [Preact Offline Starter](https://github.com/lukeed/preact-starter) - Webpack2 boilerplate for building SPA / PWA / offline front-end apps with Preact
+* [TypeScript Preact Starter](https://github.com/nickytonline/ts-preact-starter) - Barebones starter project for Preact with TypeScript
+* [Preact-redux-ssr-example](https://github.com/csbun/preact-redux-ssr-example) - Server-side Rendering with Redux Example
 
 ##### Routing
-* [preact-router - :earth_americas: URL router for Preact](https://github.com/developit/preact-router)
+* [preact-router](https://github.com/developit/preact-router) - :earth_americas: URL router for Preact
 
 ### Top Articles on Preact
 * [WTF is JSX](https://jasonformat.com/wtf-is-jsx/)
@@ -48,9 +48,9 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 * [Using Preact Instead Of React](https://medium.com/@rajaraodv/using-preact-instead-of-react-70f40f53107c)
 
 ### Preact Related Libraries
-* [React - A declarative, efficient, and flexible JavaScript library for building user interfaces.](https://github.com/facebook/react)
-* [Inferno - An extremely fast, React-like JavaScript library for building modern user interfaces](https://github.com/infernojs/inferno)
-* [Rax - :tophat: A universal React-compatible render engine.](https://github.com/alibaba/rax)
+* [React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+* [Inferno](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces
+* [Rax](https://github.com/alibaba/rax) - :tophat: A universal React-compatible render engine.
 
 ---
 ### Contribution
