@@ -33,8 +33,8 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 * [react-app-rewire-preact](https://github.com/timarney/react-app-rewired/tree/master/packages/react-app-rewire-preact) - Use Preact with create-react-app without ejecting
 
 ##### Boilerplates
-* [Official Boilerplate](https://github.com/developit/preact-boilerplate)
-* [Preact Simple Starter](https://github.com/ooade/PreactSimpleStarter) - Progressive web app boilerplate: Service Worker, Preact, Redux, Redux DevTools, Webpack 2, Webpack Dashboard, Testing, Linting, HMR
+* [Official Boilerplate](https://github.com/developit/preact-boilerplate) - :guitar: Ready-to-rock Preact starter project, powered by Webpack
+* [Preact Simple Starter](https://github.com/ooade/PreactSimpleStarter) - PWA Simple Starter with Preact, Preact-mdl and Webpack2 :fire::fire::fire:
 * [Preact Offline Starter](https://github.com/lukeed/preact-starter) - Webpack2 boilerplate for building SPA / PWA / offline front-end apps with Preact
 * [TypeScript Preact Starter](https://github.com/nickytonline/ts-preact-starter) - Barebones starter project for Preact with TypeScript
 * [Preact-redux-ssr-example](https://github.com/csbun/preact-redux-ssr-example) - Server-side Rendering with Redux Example
