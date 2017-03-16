@@ -47,6 +47,7 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 * [The Inner Workings Of Virtual DOM](https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf)
 * [Using Preact Instead Of React](https://medium.com/@rajaraodv/using-preact-instead-of-react-70f40f53107c)
 * [Preact internals #1: the easy parts](https://medium.com/@asolove/preact-internals-1-the-easy-parts-3a081fa36205#.twnc3doig)
+* [Preact internals #2: the component model](https://medium.com/@asolove/preact-internals-2-the-component-model-36a05e32957b#.8zyec2y9v)
 
 ### Preact Related Libraries
 * [React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
