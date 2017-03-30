@@ -10,6 +10,7 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
     - [Routing](#routing)
   - [Top Articles on Preact](#top-articles-on-preact)
   - [Preact Related Libraries](#preact-related-libraries)
+  - [Example Apps](#example-apps)
 - [Contribution](#contribution)
   
   
@@ -53,6 +54,9 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 * [React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 * [Inferno](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces
 * [Rax](https://github.com/alibaba/rax) - :tophat: A universal React-compatible render engine.
+
+### Example Apps
+* [preact-hn](https://github.com/kristoferbaxter/preact-hn) - Demonstration of Preact used to build Hacker News as a PWA.
 
 ---
 ### Contribution
