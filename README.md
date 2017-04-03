@@ -8,6 +8,7 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
     - [Toolkits](#toolkits)
     - [Boilerplates](#boilerplates)
     - [Routing](#routing)
+    - [Components](#components)
   - [Top Articles on Preact](#top-articles-on-preact)
   - [Preact Related Libraries](#preact-related-libraries)
   - [Example Apps](#example-apps)
@@ -42,6 +43,9 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 
 ##### Routing
 * [preact-router](https://github.com/developit/preact-router) - :earth_americas: URL router for Preact
+
+##### Components
+* [preact-material-components](https://github.com/prateekbh/preact-material-components) - preact wrapper for "Material Components for the web"
 
 ### Top Articles on Preact
 * [WTF is JSX](https://jasonformat.com/wtf-is-jsx/)
