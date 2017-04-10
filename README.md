@@ -46,6 +46,8 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 
 ##### Components
 * [preact-material-components](https://github.com/prateekbh/preact-material-components) - preact wrapper for "Material Components for the web"
+* [preact-scroll-header](https://github.com/lukeed/preact-scroll-header) - A (800b gzip) header that will show/hide while scrolling for Preact
+* [preact-progress](https://github.com/lukeed/preact-progress) - Simple and lightweight (~590 bytes gzip) progress bar component for Preact 
 
 ### Top Articles on Preact
 * [WTF is JSX](https://jasonformat.com/wtf-is-jsx/)
@@ -61,6 +63,8 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 
 ### Example Apps
 * [preact-hn](https://github.com/kristoferbaxter/preact-hn) - Demonstration of Preact used to build Hacker News as a PWA.
+* [TodoMVC](https://github.com/developit/preact-todomvc) - TodoMVC done in Preact. Under 6kb and fast.
+* [colors-app](https://github.com/lukeed/colors-app) - :art: PWA for copying values from popular color palettes. Supports HEX, RGB, and HSL formats.
 
 ---
 ### Contribution
