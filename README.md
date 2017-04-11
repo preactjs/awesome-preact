@@ -20,52 +20,52 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 > Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
 
 #### Preact General Resources
-* [Preact Official Site](https://preactjs.com/) :rocket:
-* [Preact GitHub](https://github.com/developit/preact) :fire:
+- [Preact Official Site](https://preactjs.com/) :rocket:
+- [Preact GitHub](https://github.com/developit/preact) :fire:
 
 #### Preact Community
-* [Preact Discussion Forum](https://preact-slack.now.sh)
-* [Preact StackOverflow](https://stackoverflow.com/questions/tagged/preact)
-* [Preact Twitter](https://twitter.com/preactjs)
+- [Preact Discussion Forum](https://preact-slack.now.sh)
+- [Preact StackOverflow](https://stackoverflow.com/questions/tagged/preact)
+- [Preact Twitter](https://twitter.com/preactjs)
 
 #### Preact Tools
 
 ##### Toolkits
-* [nwb](https://github.com/insin/nwb) - A toolkit for React, Preact & Inferno apps, React libraries and other npm modules for the web, with no configuration (until you need it)
-* [react-app-rewire-preact](https://github.com/timarney/react-app-rewired/tree/master/packages/react-app-rewire-preact) - Use Preact with create-react-app without ejecting
+- [nwb](https://github.com/insin/nwb) - A toolkit for React, Preact & Inferno apps, React libraries and other npm modules for the web, with no configuration (until you need it)
+- [react-app-rewire-preact](https://github.com/timarney/react-app-rewired/tree/master/packages/react-app-rewire-preact) - Use Preact with create-react-app without ejecting
 
 ##### Boilerplates
-* [Official Boilerplate](https://github.com/developit/preact-boilerplate) - :guitar: Ready-to-rock Preact starter project, powered by Webpack
-* [Preact Simple Starter](https://github.com/ooade/PreactSimpleStarter) - PWA Simple Starter with Preact, Preact-mdl and Webpack2 :fire::fire::fire:
-* [Preact Offline Starter](https://github.com/lukeed/preact-starter) - Webpack2 boilerplate for building SPA / PWA / offline front-end apps with Preact
-* [TypeScript Preact Starter](https://github.com/nickytonline/ts-preact-starter) - Barebones starter project for Preact with TypeScript
-* [Preact-redux-ssr-example](https://github.com/csbun/preact-redux-ssr-example) - Server-side Rendering with Redux Example
+- [Official Boilerplate](https://github.com/developit/preact-boilerplate) - :guitar: Ready-to-rock Preact starter project, powered by Webpack
+- [Preact Simple Starter](https://github.com/ooade/PreactSimpleStarter) - PWA Simple Starter with Preact, Preact-mdl and Webpack2 :fire::fire::fire:
+- [Preact Offline Starter](https://github.com/lukeed/preact-starter) - Webpack2 boilerplate for building SPA / PWA / offline front-end apps with Preact
+- [TypeScript Preact Starter](https://github.com/nickytonline/ts-preact-starter) - Barebones starter project for Preact with TypeScript
+- [Preact-redux-ssr-example](https://github.com/csbun/preact-redux-ssr-example) - Server-side Rendering with Redux Example
 
 ##### Routing
-* [preact-router](https://github.com/developit/preact-router) - :earth_americas: URL router for Preact
+- [preact-router](https://github.com/developit/preact-router) - :earth_americas: URL router for Preact
 
 ##### Components
-* [preact-material-components](https://github.com/prateekbh/preact-material-components) - preact wrapper for "Material Components for the web"
-* [preact-scroll-header](https://github.com/lukeed/preact-scroll-header) - A (800b gzip) header that will show/hide while scrolling for Preact
-* [preact-progress](https://github.com/lukeed/preact-progress) - Simple and lightweight (~590 bytes gzip) progress bar component for Preact 
+- [preact-material-components](https://github.com/prateekbh/preact-material-components) - preact wrapper for "Material Components for the web"
+- [preact-scroll-header](https://github.com/lukeed/preact-scroll-header) - A (800b gzip) header that will show/hide while scrolling for Preact
+- [preact-progress](https://github.com/lukeed/preact-progress) - Simple and lightweight (~590 bytes gzip) progress bar component for Preact
 
 ### Top Articles on Preact
-* [WTF is JSX](https://jasonformat.com/wtf-is-jsx/)
-* [The Inner Workings Of Virtual DOM](https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf)
-* [Using Preact Instead Of React](https://medium.com/@rajaraodv/using-preact-instead-of-react-70f40f53107c)
-* [Preact internals #1: the easy parts](https://medium.com/@asolove/preact-internals-1-the-easy-parts-3a081fa36205#.twnc3doig)
-* [Preact internals #2: the component model](https://medium.com/@asolove/preact-internals-2-the-component-model-36a05e32957b#.8zyec2y9v)
+- [WTF is JSX](https://jasonformat.com/wtf-is-jsx/)
+- [The Inner Workings Of Virtual DOM](https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf)
+- [Using Preact Instead Of React](https://medium.com/@rajaraodv/using-preact-instead-of-react-70f40f53107c)
+- [Preact internals #1: the easy parts](https://medium.com/@asolove/preact-internals-1-the-easy-parts-3a081fa36205#.twnc3doig)
+- [Preact internals #2: the component model](https://medium.com/@asolove/preact-internals-2-the-component-model-36a05e32957b#.8zyec2y9v)
 
 ### Preact Related Libraries
-* [React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-* [Inferno](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces
-* [Rax](https://github.com/alibaba/rax) - :tophat: A universal React-compatible render engine.
+- [React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [Inferno](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces
+- [Rax](https://github.com/alibaba/rax) - :tophat: A universal React-compatible render engine.
 
 ### Example Apps
-* [preact-hn](https://github.com/kristoferbaxter/preact-hn) - Demonstration of Preact used to build Hacker News as a PWA.
-* [TodoMVC](https://github.com/developit/preact-todomvc) - TodoMVC done in Preact. Under 6kb and fast.
-* [colors-app](https://github.com/lukeed/colors-app) - :art: PWA for copying values from popular color palettes. Supports HEX, RGB, and HSL formats.
-* [Tracks](https://github.com/jordic/tracks_preact/) - :clock2: PWA for tracking things in general. Gdrive Sync.
+- [preact-hn](https://github.com/kristoferbaxter/preact-hn) - Demonstration of Preact used to build Hacker News as a PWA.
+- [TodoMVC](https://github.com/developit/preact-todomvc) - TodoMVC done in Preact. Under 6kb and fast.
+- [colors-app](https://github.com/lukeed/colors-app) - :art: PWA for copying values from popular color palettes. Supports HEX, RGB, and HSL formats.
+- [Tracks](https://github.com/jordic/tracks_preact/) - :clock2: PWA for tracking things in general. Gdrive Sync.
 
 ---
 ### Contribution
