@@ -48,6 +48,28 @@ A curated list of amazingly awesome things regarding Preact ecosystem :star2:
 - [preact-material-components](https://github.com/prateekbh/preact-material-components) - preact wrapper for "Material Components for the web"
 - [preact-scroll-header](https://github.com/lukeed/preact-scroll-header) - A (800b gzip) header that will show/hide while scrolling for Preact
 - [preact-progress](https://github.com/lukeed/preact-progress) - Simple and lightweight (~590 bytes gzip) progress bar component for Preact
+- [preact-compat](https://git.io/preact-compat) - :raised_hands: use any React library with Preact *([full example](http://git.io/preact-compat-example))*
+- [preact-render-to-string](https://git.io/preact-render-to-string) - :page_facing_up: Universal rendering.
+- [preact-markup](https://git.io/preact-markup) - :bookmark_tabs: Render HTML & Custom Elements as JSX & Components
+- [preact-portal](https://git.io/preact-portal) - :satellite: Render Preact components into (a) SPACE :milky_way:
+- [preact-richtextarea](https://git.io/preact-richtextarea) - :pencil: Simple HTML editor component
+- [preact-token-input](https://github.com/developit/preact-token-input) - :bookmark: Text field that tokenizes input, for things like tags
+- [preact-virtual-list](https://github.com/developit/preact-virtual-list) - :card_index: Easily render lists with millions of rows ([demo](https://jsfiddle.net/developit/qqan9pdo/))
+- [preact-cycle](https://git.io/preact-cycle) - :repeat: Functional-reactive paradigm for Preact
+- [preact-layout](https://download.github.io/preact-layout/) - :triangular_ruler: Small and simple layout library
+- [preact-socrates](https://github.com/matthewmueller/preact-socrates) - :thought_balloon: Preact plugin for [Socrates](http://github.com/matthewmueller/socrates)
+- [preact-flyd](https://github.com/xialvjun/preact-flyd) - :rowboat: Use [flyd](https://github.com/paldepind/flyd) FRP streams in Preact + JSX
+- [preact-i18nline](https://github.com/download/preact-i18nline) - :speech_balloon: Integrates the ecosystem around [i18n-js](https://github.com/everydayhero/i18n-js) with Preact via [i18nline](https://github.com/download/i18nline).
+- [preact-mui](https://git.io/v1aVO) - :metal: The MUI CSS Preact library.
+- [preact-mdl](https://git.io/preact-mdl) - :white_square_button: Use [MDL](https://getmdl.io) as Preact components
+- [preact-photon](https://git.io/preact-photon) - :rocket: build beautiful desktop UI with [photon](http://photonkit.com)
+- [preact-jsx-chai](https://git.io/preact-jsx-chai) - :microscope: JSX assertion testing _(no DOM, right in Node)_
+- [preact-classless-component](https://github.com/ld0rman/preact-classless-component) - :tophat: create preact components without the class keyword
+- [preact-hyperscript](https://github.com/queckezz/preact-hyperscript) - :hammer: Hyperscript-like syntax for creating elements
+- [shallow-compare](https://github.com/tkh44/shallow-compare) - :white_check_mark: simplified `shouldComponentUpdate` helper.
+- [preact-codemod](https://github.com/vutran/preact-codemod) - :shaved_ice: Transform your React code to Preact.
+- [preact-helmet](https://github.com/download/preact-helmet) - :construction_worker: A document head manager for Preact
+- [preact-delegate](https://github.com/NekR/preact-delegate) - :necktie: Delegate DOM events
 
 ### Top Articles on Preact
 - [WTF is JSX](https://jasonformat.com/wtf-is-jsx/)
