@@ -40,6 +40,15 @@
 - [Preact Scroll Header](https://github.com/lukeed/preact-scroll-header) - A (800b gzip) header that will show/hide while scrolling for Preact.
 - [Preact Progress](https://github.com/lukeed/preact-progress) - Simple and lightweight (~590 bytes gzip) progress bar component for Preact.
 - [Preact Compat](https://git.io/preact-compat) - :raised_hands: Use any React library with Preact *([full example](http://git.io/preact-compat-example))*.
+
+### Routing
+- [Preact Router](https://github.com/developit/preact-router) - :earth_americas: URL router for Preact.
+
+### Components
+- [Preact Material Components](https://github.com/prateekbh/preact-material-components) - preact wrapper for "Material Components for the web".
+- [Preact Scroll Header](https://github.com/lukeed/preact-scroll-header) - A (800b gzip) header that will show/hide while scrolling for Preact.
+- [Preact Progress](https://github.com/lukeed/preact-progress) - Simple and lightweight (~590 bytes gzip) progress bar component for Preact.
+- [Preact Compat](https://git.io/preact-compat) - :raised_hands: use any React library with Preact *([full example](http://git.io/preact-compat-example))*.
 - [Preact Render To String](https://git.io/preact-render-to-string) - :page_facing_up: Universal rendering.
 - [Preact Markup](https://git.io/preact-markup) - :bookmark_tabs: Render HTML & Custom Elements as JSX & Components.
 - [Preact Portal](https://git.io/preact-portal) - :satellite: Render Preact components into (a) SPACE.
@@ -58,6 +67,11 @@
 - [Preact Classless Component](https://github.com/ld0rman/preact-classless-component) - :tophat: Create preact components without the class keyword.
 - [Preact Hyperscript](https://github.com/queckezz/preact-hyperscript) - :hammer: Hyperscript-like syntax for creating elements.
 - [Shallow Compare](https://github.com/tkh44/shallow-compare) - :white_check_mark: Simplified `shouldComponentUpdate` helper.
+- [Preact Photon](https://git.io/preact-photon) - :rocket: build beautiful desktop UI with [photon](http://photonkit.com).
+- [Preact JSX Chai](https://git.io/preact-jsx-chai) - :microscope: JSX assertion testing _(no DOM, right in Node)_.
+- [Preact Classless Component](https://github.com/ld0rman/preact-classless-component) - :tophat: create preact components without the class keyword.
+- [Preact Hyperscript](https://github.com/queckezz/preact-hyperscript) - :hammer: Hyperscript-like syntax for creating elements.
+- [Shallow Compare](https://github.com/tkh44/shallow-compare) - :white_check_mark: simplified `shouldComponentUpdate` helper.
 - [Preact Codemod](https://github.com/vutran/preact-codemod) - :shaved_ice: Transform your React code to Preact.
 - [Preact Helmet](https://github.com/download/preact-helmet) - :construction_worker: A document head manager for Preact.
 - [Preact Delegate](https://github.com/NekR/preact-delegate) - :necktie: Delegate DOM events.
