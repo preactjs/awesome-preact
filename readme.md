@@ -4,6 +4,8 @@
 
 > A curated list of amazingly awesome things regarding [Preact](https://github.com/developit/preact) ecosystem :star2:
 
+[Preact](https://github.com/developit/preact) is a fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
+
 ## Contents
 - [Community](#community)
 - [Toolkits](#toolkits)
@@ -11,8 +13,8 @@
 - [Routing](#routing)
 - [Components](#components)
 - [Articles](#articles)
-- [Related Libraries](#related-libraries)
 - [Example Apps](#example-apps)
+- [Related Libraries](#related-libraries)
 - [Tips](#tips)
 
 ### Community
@@ -74,24 +76,25 @@
 - [Preact Internals #1: The Easy Parts](https://medium.com/@asolove/preact-internals-1-the-easy-parts-3a081fa36205#.twnc3doig)
 - [Preact Internals #2: The Component Model](https://medium.com/@asolove/preact-internals-2-the-component-model-36a05e32957b#.8zyec2y9v)
 
-### Related Libraries
-- [React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [Inferno](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces.
-- [Rax](https://github.com/alibaba/rax) - :tophat: A universal React-compatible render engine.
-
 ### Example Apps
 - [Preact HN](https://github.com/kristoferbaxter/preact-hn) - Demonstration of Preact used to build Hacker News as a PWA.
 - [TodoMVC](https://github.com/developit/preact-todomvc) - TodoMVC done in Preact. Under 6kb and fast.
 - [Colors App](https://github.com/lukeed/colors-app) - :art: PWA for copying values from popular color palettes. Supports HEX, RGB, and HSL formats.
 - [Tracks](https://github.com/jordic/tracks_preact/) - :clock2: PWA for tracking things in general. Gdrive Sync.
 
+### Related Libraries
+- [React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [Inferno](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces.
+- [Rax](https://github.com/alibaba/rax) - :tophat: A universal React-compatible render engine.
+
 ### Tips
 Contribute some ;)
 
 ---
 ### Contribution
-Your contributions and suggestions are welcome anytime. Build great stuffs with Preact, share with us ;)
+Your contributions and suggestions are welcome anytime. Build great stuffs with Preact, share with us ;) <br/>
+Make sure you follow the [guidelines](/contributing.md). Thank you!
 
 ---
 ### License
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
