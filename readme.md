@@ -44,7 +44,7 @@
 - [Preact Progress](https://github.com/lukeed/preact-progress) - Simple and lightweight (~590 bytes gzip) progress bar component for Preact.
 - [Preact Compat](https://git.io/preact-compat) - :raised_hands: Use any React library with Preact *([full example](http://git.io/preact-compat-example))*.
 - [Preact Render To String](https://git.io/preact-render-to-string) - :page_facing_up: Universal rendering.
-- [Preact No SSR](https://github.com/gufsky/preact-no-ssr) - :page_facing_up: For skipping server side rendering by component, used to progressively render components above the fold.
+- [Preact No SSR](https://github.com/gufsky/preact-no-ssr) - :page_facing_up: For skipping server side rendering by component, render components above the fold.
 - [Preact Markup](https://git.io/preact-markup) - :bookmark_tabs: Render HTML & Custom Elements as JSX & Components.
 - [Preact Portal](https://git.io/preact-portal) - :satellite: Render Preact components into (a) SPACE.
 - [Preact Richtextarea](https://git.io/preact-richtextarea) - :pencil: Simple HTML editor component.
