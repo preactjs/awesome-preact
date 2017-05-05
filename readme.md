@@ -33,6 +33,7 @@
 - [Preact Offline Starter](https://github.com/lukeed/preact-starter) - Webpack2 boilerplate for building SPA / PWA / offline front-end apps with Preact.
 - [TypeScript Preact Starter](https://github.com/nickytonline/ts-preact-starter) - Barebones starter project for Preact with TypeScript.
 - [Preact Redux SSR Example](https://github.com/csbun/preact-redux-ssr-example) - Server-side Rendering with Redux Example.
+- [Preact PWA](https://github.com/ezekielchentnik/preact-pwa) - :hamburger: PWA focused on raw performance, server side rendering, prerendering, redux, express, rollup
 
 ### Routing
 - [Preact Router](https://github.com/developit/preact-router) - :earth_americas: URL router for Preact.
@@ -43,6 +44,7 @@
 - [Preact Progress](https://github.com/lukeed/preact-progress) - Simple and lightweight (~590 bytes gzip) progress bar component for Preact.
 - [Preact Compat](https://git.io/preact-compat) - :raised_hands: Use any React library with Preact *([full example](http://git.io/preact-compat-example))*.
 - [Preact Render To String](https://git.io/preact-render-to-string) - :page_facing_up: Universal rendering.
+- [Preact No SSR](https://github.com/gufsky/preact-no-ssr) - :page_facing_up: For skipping server side rendering by component, used to progressively render components above the fold.
 - [Preact Markup](https://git.io/preact-markup) - :bookmark_tabs: Render HTML & Custom Elements as JSX & Components.
 - [Preact Portal](https://git.io/preact-portal) - :satellite: Render Preact components into (a) SPACE.
 - [Preact Richtextarea](https://git.io/preact-richtextarea) - :pencil: Simple HTML editor component.
