@@ -33,6 +33,7 @@
 - [Preact Offline Starter](https://github.com/lukeed/preact-starter) - Webpack2 boilerplate for building SPA / PWA / offline front-end apps with Preact.
 - [TypeScript Preact Starter](https://github.com/nickytonline/ts-preact-starter) - Barebones starter project for Preact with TypeScript.
 - [Preact Redux SSR Example](https://github.com/csbun/preact-redux-ssr-example) - Server-side Rendering with Redux Example.
+- [Preact PWA](https://github.com/ezekielchentnik/preact-pwa) - :hamburger: PWA focused on raw performance, server side rendering, prerendering, redux, express, rollup.
 
 ### Routing
 - [Preact Router](https://github.com/developit/preact-router) - :earth_americas: URL router for Preact.
@@ -68,6 +69,7 @@
 - [Preact Codemod](https://github.com/vutran/preact-codemod) - :shaved_ice: Transform your React code to Preact.
 - [Preact Helmet](https://github.com/download/preact-helmet) - :construction_worker: A document head manager for Preact.
 - [Preact Delegate](https://github.com/NekR/preact-delegate) - :necktie: Delegate DOM events.
+- [Preact No SSR](https://github.com/gufsky/preact-no-ssr) - :page_facing_up: Skip Server Side Rendering of Components.
 
 ### Articles
 - [WTF is JSX](https://jasonformat.com/wtf-is-jsx/)
