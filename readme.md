@@ -24,6 +24,7 @@
 - [Twitter](https://twitter.com/preactjs)
 
 ### Toolkits
+- [Preact CLI](https://github.com/developit/preact-cli) - Build a Preact Progressive Web App in seconds.
 - [nwb](https://github.com/insin/nwb) - Quick Development with React, Inferno or Preact.
 - [React App Rewire Preact](https://github.com/timarney/react-app-rewired/tree/master/packages/react-app-rewire-preact) - Use Preact with create-react-app without ejecting.
 
