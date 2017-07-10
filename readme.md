@@ -70,6 +70,7 @@
 - [Preact Delegate](https://github.com/NekR/preact-delegate) - :necktie: Delegate DOM events.
 - [Preact No SSR](https://github.com/gufsky/preact-no-ssr) - :page_facing_up: Skip Server Side Rendering of Components.
 - [Preact Head](https://github.com/matthewmueller/preact-head) - Standalone, declarative \<Head /\> for Preact.
+- [Preact Render Spy](https://github.com/mzgoddard/preact-render-spy) - Render Preact components with access to the produced virtual dom for testing.
 
 ### Articles
 - [WTF is JSX](https://jasonformat.com/wtf-is-jsx/)
