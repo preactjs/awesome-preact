@@ -65,8 +65,6 @@
 - [Preact Photon](https://git.io/preact-photon) - :rocket: Build beautiful desktop UI with [photon](http://photonkit.com).
 - [Preact JSX Chai](https://git.io/preact-jsx-chai) - :microscope: JSX assertion testing _(no DOM, right in Node)_.
 - [Preact Classless Component](https://github.com/ld0rman/preact-classless-component) - :tophat: Create preact components without the class keyword.
-- [Preact Hyperscript](https://github.com/queckezz/preact-hyperscript) - :hammer: Hyperscript-like syntax for creating elements.
-- [Shallow Compare](https://github.com/tkh44/shallow-compare) - :white_check_mark: Simplified `shouldComponentUpdate` helper.
 - [Preact Codemod](https://github.com/vutran/preact-codemod) - :shaved_ice: Transform your React code to Preact.
 - [Preact Helmet](https://github.com/download/preact-helmet) - :construction_worker: A document head manager for Preact.
 - [Preact Delegate](https://github.com/NekR/preact-delegate) - :necktie: Delegate DOM events.
