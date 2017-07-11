@@ -12,6 +12,7 @@
 - [Boilerplates](#boilerplates)
 - [Routing](#routing)
 - [Components](#components)
+- [Testing Utils](#testing-utils)
 - [Articles](#articles)
 - [Example Apps](#example-apps)
 - [Related Libraries](#related-libraries)
@@ -59,18 +60,19 @@
 - [Preact MUI](https://git.io/v1aVO) - :metal: The MUI CSS Preact library.
 - [Preact MDL](https://git.io/preact-mdl) - :white_square_button: Use [MDL](https://getmdl.io) as Preact components.
 - [Preact Photon](https://git.io/preact-photon) - :rocket: Build beautiful desktop UI with [photon](http://photonkit.com).
-- [Preact JSX Chai](https://git.io/preact-jsx-chai) - :microscope: JSX assertion testing _(no DOM, right in Node)_.
 - [Preact Classless Component](https://github.com/ld0rman/preact-classless-component) - :tophat: Create preact components without the class keyword.
 - [Preact Hyperscript](https://github.com/queckezz/preact-hyperscript) - :hammer: Hyperscript-like syntax for creating elements.
 - [Shallow Compare](https://github.com/tkh44/shallow-compare) - :white_check_mark: Simplified `shouldComponentUpdate` helper.
 - [Preact Photon](https://git.io/preact-photon) - :rocket: Build beautiful desktop UI with [photon](http://photonkit.com).
-- [Preact JSX Chai](https://git.io/preact-jsx-chai) - :microscope: JSX assertion testing _(no DOM, right in Node)_.
 - [Preact Classless Component](https://github.com/ld0rman/preact-classless-component) - :tophat: Create preact components without the class keyword.
 - [Preact Codemod](https://github.com/vutran/preact-codemod) - :shaved_ice: Transform your React code to Preact.
 - [Preact Helmet](https://github.com/download/preact-helmet) - :construction_worker: A document head manager for Preact.
 - [Preact Delegate](https://github.com/NekR/preact-delegate) - :necktie: Delegate DOM events.
 - [Preact No SSR](https://github.com/gufsky/preact-no-ssr) - :page_facing_up: Skip Server Side Rendering of Components.
 - [Preact Head](https://github.com/matthewmueller/preact-head) - Standalone, declarative \<Head /\> for Preact.
+
+### Testing Utils
+- [Preact JSX Chai](https://git.io/preact-jsx-chai) - :microscope: JSX assertion testing _(no DOM, right in Node)_.
 - [Preact Render Spy](https://github.com/mzgoddard/preact-render-spy) - Render Preact components with access to the produced virtual dom for testing.
 
 ### Articles
