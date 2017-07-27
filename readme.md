@@ -72,7 +72,7 @@
 - [Preact Head](https://github.com/matthewmueller/preact-head) - Standalone, declarative \<Head /\> for Preact.
 
 ### Testing Utils
-- [Preact JSX Chai](https://git.io/preact-jsx-chai) - :microscope: JSX assertion testing _(no DOM, right in Node)_.
+- [Preact JSX Chai](https://git.io/preact-jsx-chai) - JSX assertion testing _(no DOM, right in Node)_.
 - [Preact Render Spy](https://github.com/mzgoddard/preact-render-spy) - Render Preact components with access to the produced virtual dom for testing.
 
 ### Articles
