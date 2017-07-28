@@ -9,7 +9,6 @@ Ensure your pull request adheres to the following guidelines:
   > :information_source: [Articles](https://github.com/ooade/awesome-preact#top-articles-on-preact) should use the `[Title Case Name](link) format`.
 - Keep descriptions short and simple, but descriptive.
 - Start the description with a capital and end with a full stop/period.
-  > :information_source: You can use an emoji, only before the Title-Cased Description.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 - New categories or improvements to the existing categorization are welcome.
