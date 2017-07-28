@@ -82,6 +82,7 @@
 - [Preact Internals #1: The Easy Parts](https://medium.com/@asolove/preact-internals-1-the-easy-parts-3a081fa36205#.twnc3doig)
 - [Preact Internals #2: The Component Model](https://medium.com/@asolove/preact-internals-2-the-component-model-36a05e32957b#.8zyec2y9v)
 - [Building a Small PWA with Preact and Firebase](https://dandenney.com/posts/front-end-dev/building-a-small-pwa-with-preact-and-firebase)
+- [Authentication with Auth0](https://auth0.com/blog/preact-authentication-tutorial)
 
 ### Example Apps
 - [Preact HN](https://github.com/kristoferbaxter/preact-hn) - Demonstration of Preact used to build Hacker News as a PWA.
