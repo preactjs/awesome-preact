@@ -12,6 +12,7 @@
 - [Boilerplates](#boilerplates)
 - [Routing](#routing)
 - [Components](#components)
+- [Libraries](#libraries)
 - [Testing Utils](#testing-utils)
 - [Articles](#articles)
 - [Example Apps](#example-apps)
@@ -72,6 +73,9 @@
 - [Preact Head](https://github.com/matthewmueller/preact-head) - Standalone, declarative \<Head /\> for Preact.
 - [Preact Side Effect](https://github.com/ooade/preact-side-effect) - Create components whose nested prop changes map to a global side effect.
 - [Preact Tiny Atom](https://github.com/KwanMan/preact-tiny-atom) - Preact Integration with [Tiny Atom](https://github.com/qubitproducts/tiny-atom).
+
+### Libraries
+- [FPreact] - Provides an alternative api for creating preact components, heavily inspired by elm.
 
 ### Testing Utils
 - [Preact JSX Chai](https://git.io/preact-jsx-chai) - JSX assertion testing _(no DOM, right in Node)_.
