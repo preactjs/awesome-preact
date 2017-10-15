@@ -75,7 +75,7 @@
 - [Preact Tiny Atom](https://github.com/KwanMan/preact-tiny-atom) - Preact Integration with [Tiny Atom](https://github.com/qubitproducts/tiny-atom).
 
 ### Libraries
-- [FPreact] - Provides an alternative api for creating preact components, heavily inspired by elm.
+- [FPreact](https://github.com/UnwrittenFun/fpreact) - Provides an alternative api for creating preact components, heavily inspired by elm.
 
 ### Testing Utils
 - [Preact JSX Chai](https://git.io/preact-jsx-chai) - JSX assertion testing _(no DOM, right in Node)_.
