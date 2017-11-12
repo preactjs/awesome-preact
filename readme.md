@@ -12,6 +12,7 @@
 - [Boilerplates](#boilerplates)
 - [Routing](#routing)
 - [Components](#components)
+- [Libraries](#libraries)
 - [Testing Utils](#testing-utils)
 - [Articles](#articles)
 - [Example Apps](#example-apps)
@@ -73,6 +74,9 @@
 - [Preact Tiny Atom](https://github.com/KwanMan/preact-tiny-atom) - Preact Integration with [Tiny Atom](https://github.com/qubitproducts/tiny-atom).
 - [Preact Level List](https://github.com/juliangruber/preact-level-list) - Live updating leveldb list component for Preact.
 - [Preact Country Picker](https://github.com/bboydflo/flagstrap-preact) - Country picker based on bootstrap 3 made for Preact.
+
+### Libraries
+- [FPreact](https://github.com/UnwrittenFun/fpreact) - Provides an alternative api for creating preact components, heavily inspired by elm.
 
 ### Testing Utils
 - [Preact JSX Chai](https://git.io/preact-jsx-chai) - JSX assertion testing _(no DOM, right in Node)_.
