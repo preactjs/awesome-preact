@@ -74,6 +74,8 @@
 - [Preact Tiny Atom](https://github.com/KwanMan/preact-tiny-atom) - Preact Integration with [Tiny Atom](https://github.com/qubitproducts/tiny-atom).
 - [Preact Level List](https://github.com/juliangruber/preact-level-list) - Live updating leveldb list component for Preact.
 - [Preact Country Picker](https://github.com/bboydflo/flagstrap-preact) - Country picker based on bootstrap 3 made for Preact.
+- [Preact Fluid](https://github.com/ajainvivek/preact-fluid) - A minimal UI kit for Preact.
+
 
 ### Libraries
 - [Redux Zero](https://github.com/concretesolutions/redux-zero) - A lightweight state container based on Redux with a single store and no reducers.
