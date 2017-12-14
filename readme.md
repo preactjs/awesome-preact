@@ -64,7 +64,6 @@
 - [Preact Classless Component](https://github.com/ld0rman/preact-classless-component) - Create preact components without the class keyword.
 - [Preact Hyperscript](https://github.com/queckezz/preact-hyperscript) - Hyperscript-like syntax for creating elements.
 - [Shallow Compare](https://github.com/tkh44/shallow-compare) - Simplified `shouldComponentUpdate` helper.
-- [Preact Photon](https://git.io/preact-photon) - Build beautiful desktop UI with [photon](http://photonkit.com).
 - [Preact Codemod](https://github.com/vutran/preact-codemod) - Transform your React code to Preact.
 - [Preact Helmet](https://github.com/download/preact-helmet) - A document head manager for Preact.
 - [Preact Delegate](https://github.com/NekR/preact-delegate) - Delegate DOM events.
