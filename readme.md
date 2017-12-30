@@ -16,6 +16,7 @@
 - [Testing Utils](#testing-utils)
 - [Articles](#articles)
 - [Example Apps](#example-apps)
+- [Real Apps](https://preactjs.com/about/we-are-using)
 - [Related Libraries](#related-libraries)
 - [Tips](#tips)
 
