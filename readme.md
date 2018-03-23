@@ -80,6 +80,7 @@
 - [Preact Feather Icons](https://github.com/ForsakenHarmony/preact-feather) - Feather icons for Preact.
 - [Preact Animate On Change](https://github.com/Sobesednik/preact-animate-on-change) - Add CSS3 animation when properties change.
 - [Preact Async Route](https://github.com/prateekbh/preact-async-route) - Async route component for preact-router.
+- [MU Forms](https://github.com/mobiushorizons/mu-forms) - Dead simple form library for P(r)eact.
 
 ### Libraries
 - [Redux Zero](https://github.com/concretesolutions/redux-zero) - A lightweight state container based on Redux with a single store and no reducers.
