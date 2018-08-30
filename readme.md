@@ -44,6 +44,7 @@
 
 ### Routing
 - [Preact Router](https://github.com/developit/preact-router) - URL router for Preact.
+- [Preact Route Async](https://github.com/mjanssen/preact-route-async) - A (440b gzip) route component that enables async loading of page-components.
 
 ### Components
 - [Preact Material Components](https://github.com/prateekbh/preact-material-components) - Preact wrapper for "Material Components for the web".
