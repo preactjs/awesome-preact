@@ -86,6 +86,7 @@
 - [MU Forms](https://github.com/mobiushorizons/mu-forms) - Dead simple form library for P(r)eact.
 - [Pimg](https://github.com/ooade/pimg) - Progressive Image Component; Used for lazy loading images.
 - [Preact Component Console](https://github.com/haensl/preact-component-console) - Console Emulator. Simulates typing via dynamic delays.
+- [Preact Translate](https://github.com/DenysVuika/preact-translate) - Minimalistic translate (i18n) library for Preact.
 
 ### Libraries
 - [Redux Zero](https://github.com/concretesolutions/redux-zero) - A lightweight state container based on Redux with a single store and no reducers.
