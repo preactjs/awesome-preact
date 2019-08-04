@@ -39,6 +39,7 @@
 - [Preact Simple Starter](https://github.com/ooade/PreactSimpleStarter) - PWA Simple Starter with Preact, Preact-mdl and Webpack2.
 - [Preact Offline Starter](https://github.com/lukeed/preact-starter) - Webpack2 boilerplate for building SPA / PWA / offline front-end apps with Preact.
 - [TypeScript Preact Starter](https://github.com/nickytonline/ts-preact-starter) - Barebones starter project for Preact with TypeScript.
+- [TypeScript PWA Preact Starter](https://github.com/bmitchinson/preact-typescript-pwa-starter) - PWA Starter with TypeScript and SASS (131kb)
 - [Preact Redux SSR Example](https://github.com/csbun/preact-redux-ssr-example) - Server-side Rendering with Redux Example.
 - [Preact PWA](https://github.com/ezekielchentnik/preact-pwa) - PWA focused on raw performance, server side rendering, prerendering, redux, express, rollup.
 - [Preact Boilerplate](https://github.com/therealparmesh/preact-boilerplate) - Absolutely minimal Preact starter project, powered by Parcel.
