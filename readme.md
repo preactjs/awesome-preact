@@ -29,7 +29,7 @@
 ### Toolkits
 - [Preact CLI](https://github.com/developit/preact-cli) - Build a Preact Progressive Web App in seconds.
 - [nwb](https://github.com/insin/nwb) - Quick Development with React, Inferno or Preact.
-- [React App Rewire Preact](https://github.com/timarney/react-app-rewired/tree/master/packages/react-app-rewire-preact) - Use Preact with create-react-app without ejecting.
+- [React App Rewire Preact](https://github.com/timarney/react-app-rewired) - Use Preact with create-react-app without ejecting.
 - [Preact CLI PostCSS](https://github.com/SaraVieira/preact-cli-postcss) - It removes the default postcss config on Preact CLI, so you can use postcss.config.js.
 - [Create Preact App](https://github.com/just-boris/create-preact-app) - Create Preact apps with no build configuration.
 - [Storybook Preact](https://github.com/storybooks/storybook/tree/next/app/preact) - Storybook for Preact is a UI development environment for your Preact components.
