@@ -119,6 +119,25 @@
 - [Golazon](https://github.com/sobstel/golazon) - Football data mnmlist way.
 - [Shopping List](https://github.com/ibm-watson-data-lab/shopping-list-preact-pouchdb) - Progressive Web App Built Using Preact and PouchDB.
 - [Code and Comment](https://github.com/code-and-comment/code-and-comment) - The application to add the comments to a file in Github ([demo](https://code-and-comment.github.io/code-and-comment/)).
+- [**Play.cash**](https://play.cash) :notes: _([GitHub Project](https://github.com/feross/play.cash))_
+- [**Songsterr**](https://www.songsterr.com) 🎼 Using Preact X in production since 10.0 alpha
+- [**BitMidi**](https://bitmidi.com/) 🎹 Wayback machine for free MIDI files _([GitHub Project](https://github.com/feross/bitmidi.com))_
+- [**Ultimate Guitar**](https://www.ultimate-guitar.com) 🎸speed boosted by Preact.
+- [**ESBench**](http://esbench.com) is built using Preact.
+- [**BigWebQuiz**](https://bigwebquiz.com) _([GitHub Project](https://github.com/jakearchibald/big-web-quiz))_
+- [**Nectarine.rocks**](http://nectarine.rocks) _([GitHub Project](https://github.com/developit/nectarine))_ :peach:
+- [**OSS.Ninja**](https://oss.ninja) _([GitHub Project](https://github.com/developit/oss.ninja))_
+- [**GuriVR**](https://gurivr.com) _([GitHub Project](https://github.com/opennewslabs/guri-vr))_
+- [**Offline Gallery**](https://use-the-platform.com/offline-gallery/) _([GitHub Project](https://github.com/vaneenige/offline-gallery/))_ :balloon:
+- [**Periodic Weather**](https://use-the-platform.com/periodic-weather/) _([GitHub Project](https://github.com/vaneenige/periodic-weather/))_ :sunny:
+- [**Rugby News Board**](http://nbrugby.com) _[(GitHub Project)](https://github.com/rugby-board/rugby-board-node)_
+- [**Preact Gallery**](https://preact.gallery/) an 8KB photo gallery PWA built using Preact.
+- [**Rainbow Explorer**](https://use-the-platform.com/rainbow-explorer/) Preact app to translate real life color to digital color _([Github project](https://github.com/vaneenige/rainbow-explorer))_.
+- [**YASCC**](https://carlosqsilva.github.io/YASCC/#/) Yet Another SoundCloud Client _([Github project](https://github.com/carlosqsilva/YASCC))_.
+- [**Journalize**](https://preact-journal.herokuapp.com/) 14k offline-capable journaling PWA using preact. _([Github project](https://github.com/jpodwys/preact-journal))_.
+- [**Proxx**](https://proxx.app) A game of proximity by GoogleChromeLabs using preact. _([Github project](https://github.com/GoogleChromeLabs/proxx))_.
+- [**Web Maker**](https://webmaker.app) An offline and blazing fast frontend playground built using Preact. _([Github project](https://github.com/chinchang/web-maker))_.
+- [**Intergram**](https://www.intergram.xyz) A live chat widget linked to your Telegram messenger built using Preact. _([Github project](https://github.com/idoco/intergram))_.
 
 ### Related Libraries
 - [React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
