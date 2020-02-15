@@ -94,7 +94,7 @@
 - [FPreact](https://github.com/UnwrittenFun/fpreact) - Provides an alternative api for creating preact components, heavily inspired by elm.
 - [ProppyJS - A tiny library for functional props composition](https://proppyjs.com)
 - [ClearX](https://github.com/Autodesk/clearx) - Fast & Effortless state management for React, Preact and Inferno with zero learning curve.
-- [Preact-urql](https://github.com/JoviDeCroock/preact-urql) - Use [urql](https://github.com/FormidableLabs/urql) with Preact core + hooks.
+- [Preact-urql](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) - Use [urql](https://github.com/FormidableLabs/urql) with Preact core + hooks.
 
 ### Testing Utils
 - [Preact JSX Chai](https://git.io/preact-jsx-chai) - JSX assertion testing _(no DOM, right in Node)_.
