@@ -84,7 +84,7 @@
 - [Preact Feather Icons](https://github.com/ForsakenHarmony/preact-feather) - Feather icons for Preact.
 - [Preact Animate On Change](https://github.com/Sobesednik/preact-animate-on-change) - Add CSS3 animation when properties change.
 - [Preact Async Route](https://github.com/prateekbh/preact-async-route) - Async route component for preact-router.
-- [MU Forms](https://github.com/mobiushorizons/mu-forms) - Dead simple form library for P(r)eact.
+- [MU Forms](https://github.com/mobiushorizons/mu-forms) - Dead simple form library for (P)React.
 - [Pimg](https://github.com/ooade/pimg) - Progressive Image Component; Used for lazy loading images.
 - [Preact Component Console](https://github.com/haensl/preact-component-console) - Console Emulator. Simulates typing via dynamic delays.
 - [Preact Translate](https://github.com/DenysVuika/preact-translate) - Minimalistic translate (i18n) library for Preact.
