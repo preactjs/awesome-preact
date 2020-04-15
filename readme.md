@@ -140,7 +140,7 @@
 - [**Web Maker**](https://webmaker.app) An offline and blazing fast frontend playground built using Preact. _([Github project](https://github.com/chinchang/web-maker))_.
 - [**Intergram**](https://www.intergram.xyz) A live chat widget linked to your Telegram messenger built using Preact. _([Github project](https://github.com/idoco/intergram))_.
 - [**Preact App in ES6 without Babel or JSX**](https://vanilla-preact.surge.sh) _([GitHub Project](https://github.com/safdarjamal/vanilla-preact/))_.
-- [**GHFresh**](https://code2k.github.io/ghfresh/)]) Monitor GitHub releases. TS, CRA, Material-UI, Redux Toolkit. _([GitHub Project](https://github.com/code2k/ghfresh))_
+- [**GHFresh**](https://code2k.github.io/ghfresh/) Monitor GitHub repository releases – Prerendering with Preact. Built with Preact Compat, TypeScript, Material-UI and Redux Toolkit. _([GitHub Project](https://github.com/code2k/ghfresh))_.
 
 ### Related Libraries
 - [React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
