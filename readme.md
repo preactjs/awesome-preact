@@ -95,6 +95,7 @@
 - [ProppyJS - A tiny library for functional props composition](https://proppyjs.com)
 - [ClearX](https://github.com/Autodesk/clearx) - Fast & Effortless state management for React, Preact and Inferno with zero learning curve.
 - [Preact-urql](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) - Use [urql](https://github.com/FormidableLabs/urql) with Preact core + hooks.
+- [hooked-head](https://github.com/JoviDeCroock/hooked-head) - Hooks to manipulate the `<head>` section of the DOM. This has a subpackage with core preact support (using `preact/hooks`).
 
 ### Testing Utils
 - [Preact JSX Chai](https://git.io/preact-jsx-chai) - JSX assertion testing _(no DOM, right in Node)_.
