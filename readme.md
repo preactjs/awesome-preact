@@ -88,6 +88,7 @@
 - [Pimg](https://github.com/ooade/pimg) - Progressive Image Component; Used for lazy loading images.
 - [Preact Component Console](https://github.com/haensl/preact-component-console) - Console Emulator. Simulates typing via dynamic delays.
 - [Preact Translate](https://github.com/DenysVuika/preact-translate) - Minimalistic translate (i18n) library for Preact.
+- [Preact Dock](https://github.com/TimDaub/preact-touchable-dock) - Simple DnD and touch-enabled Dock for Preact apps.
 
 ### Libraries
 - [Redux Zero](https://github.com/concretesolutions/redux-zero) - A lightweight state container based on Redux with a single store and no reducers.
