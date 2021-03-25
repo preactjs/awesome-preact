@@ -96,6 +96,7 @@
 
 ### Libraries
 - [Redux Zero](https://github.com/concretesolutions/redux-zero) - A lightweight state container based on Redux with a single store and no reducers.
+- [Unistore](https://github.com/developit/unistore) - 350b / 650b state container with component actions for Preact & React.
 - [FPreact](https://github.com/UnwrittenFun/fpreact) - Provides an alternative api for creating preact components, heavily inspired by elm.
 - [ProppyJS - A tiny library for functional props composition](https://proppyjs.com)
 - [ClearX](https://github.com/Autodesk/clearx) - Fast & Effortless state management for React, Preact and Inferno with zero learning curve.
