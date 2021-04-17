@@ -150,6 +150,7 @@
 - [**GHFresh**](https://code2k.github.io/ghfresh/) Monitor GitHub repository releases – Prerendering with Preact. Built with Preact Compat, TypeScript, Material-UI and Redux Toolkit. _([GitHub Project](https://github.com/code2k/ghfresh))_.
 - [**Passwords Fountain**](https://passwords-fountain.com/) - modern & performant password manager interface which works everywhere _([Github project](https://github.com/kolodziejczakM/passwords-fountain))_.
 - [**macOS Web**](https://macos.now.sh) - macOS Big Sur Desktop experience for Web, built with Preact and Vite _([Github project](https://github.com/PuruVJ/macos-web))_
+- [**Cinemate**](https://cinemate.me) - Movie Recommender System with Preact and TypeScript. Backend written in Rust.
 
 ### Related Libraries
 - [React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
