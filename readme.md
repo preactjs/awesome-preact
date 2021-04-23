@@ -21,7 +21,7 @@
 - [Tips](#tips)
 
 ### Community
-- [Slack](https://preact-slack.now.sh) (Discussion Forum)
+- [Slack](https://chat.preactjs.com/) (Discussion Forum)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/preact)
 - [Github](https://github.com/developit/preact)
 - [Twitter](https://twitter.com/preactjs)
