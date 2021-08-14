@@ -5,8 +5,8 @@ Ensure your pull request adheres to the following guidelines:
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make an individual pull request for each suggestion.
 - Use [title-casing](http://titlecapitalization.com) (AP style).
-- Use the following format: `[Title Case Name](link) - Description.`
-  > :information_source: [Articles](https://github.com/ooade/awesome-preact#top-articles-on-preact) should use the `[Title Case Name](link) format`.
+- Use the following format: `[Title Case Name](link) - Description.`.
+- [Articles](https://github.com/preactjs/awesome-preact#articles) should use the format: `[Title Case Name](link)`.
 - Keep descriptions short and simple, but descriptive.
 - Start the description with a capital and end with a full stop/period.
 - Check your spelling and grammar.
