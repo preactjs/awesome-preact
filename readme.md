@@ -150,7 +150,7 @@
 - [**Preact App in ES6 without Babel or JSX**](https://vanilla-preact.surge.sh) _([GitHub Project](https://github.com/safdarjamal/vanilla-preact/))_.
 - [**GHFresh**](https://code2k.github.io/ghfresh/) Monitor GitHub repository releases – Prerendering with Preact. Built with Preact Compat, TypeScript, Material-UI and Redux Toolkit. _([GitHub Project](https://github.com/code2k/ghfresh))_.
 - [**Passwords Fountain**](https://passwords-fountain.com/) - modern & performant password manager interface which works everywhere _([Github project](https://github.com/kolodziejczakM/passwords-fountain))_.
-- [**macOS Web**](https://macos.now.sh) - macOS Big Sur Desktop experience for Web, built with Preact and Vite _([Github project](https://github.com/PuruVJ/macos-web))_
+- [**macOS Web**](https://macos-preact.now.sh) - macOS Big Sur Desktop experience for Web, built with Preact and Vite _([Github project](https://github.com/PuruVJ/macos-preact))_
 - [**Cinemate**](https://cinemate.me) - Movie Recommender System built with Preact and TypeScript. Backend written in Rust.
 
 ### Related Libraries
