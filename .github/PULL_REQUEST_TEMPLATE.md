@@ -1,5 +1,5 @@
-**Repo URL:** <!-- Add the link to your Repository !-->
-
-**Twitter Username:** <!-- We use this to give a shoutout -->
-
-**Description:** <!-- Add Description here or not? -->
+<!-- Add a brief description about your contribution -->
+### Checklist
+- [ ] My contribution hasn't been previously submitted.
+- [ ] My contribution description is short and simple, but descriptive.
+- [ ] My contribution follows the format: `[Title Case Name](link) - Description.`.
