@@ -105,7 +105,7 @@
 - [ClearX](https://github.com/Autodesk/clearx) - Fast & Effortless state management for React, Preact and Inferno with zero learning curve.
 - [Preact-urql](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) - Use [urql](https://github.com/FormidableLabs/urql) with Preact core + hooks.
 - [hooked-head](https://github.com/JoviDeCroock/hooked-head) - Hooks to manipulate the `<head>` section of the DOM. This has a subpackage with core preact support (using `preact/hooks`).
-- [Teaful](https://github.com/teafuljs/teaful) - Tiny (800B), easy and powerful (P)React state management
+- [Teaful](https://github.com/teafuljs/teaful) - Tiny (800B), easy and powerful (P)React state management.
 
 
 ### Testing Utils
