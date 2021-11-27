@@ -106,7 +106,7 @@
 - [Preact-urql](https://github.com/FormidableLabs/urql/tree/master/packages/preact-urql) - Use [urql](https://github.com/FormidableLabs/urql) with Preact core + hooks.
 - [hooked-head](https://github.com/JoviDeCroock/hooked-head) - Hooks to manipulate the `<head>` section of the DOM. This has a subpackage with core preact support (using `preact/hooks`).
 - [Teaful](https://github.com/teafuljs/teaful) - Tiny (800B), easy and powerful (P)React state management.
-- [Nano Stores](https://github.com/nanostores/nanostores) - A tiny (199 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores; Preact integration is provided by [@nanostores/preact](https://github.com/nanostores/preact) package
+- [Nano Stores](https://github.com/nanostores/nanostores) - A tiny (199 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores; Preact integration is provided by [@nanostores/preact](https://github.com/nanostores/preact) package.
 
 
 ### Testing Utils
