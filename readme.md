@@ -57,21 +57,21 @@
 - [Preact Material Components](https://github.com/prateekbh/preact-material-components) - Preact wrapper for "Material Components for the web".
 - [Preact Scroll Header](https://github.com/lukeed/preact-scroll-header) - A (800b gzip) header that will show/hide while scrolling for Preact.
 - [Preact Progress](https://github.com/lukeed/preact-progress) - Simple and lightweight (~590 bytes gzip) progress bar component for Preact.
-- [Preact Compat](https://git.io/preact-compat) - Use any React library with Preact *([full example](http://git.io/preact-compat-example))*.
-- [Preact Render To String](https://git.io/preact-render-to-string) - Universal rendering.
-- [Preact Markup](https://git.io/preact-markup) - Render HTML & Custom Elements as JSX & Components.
-- [Preact Portal](https://git.io/preact-portal) - Render Preact components into (a) SPACE.
-- [Preact Richtextarea](https://git.io/preact-richtextarea) - Simple HTML editor component.
+- [Preact Compat](https://github.com/preactjs/preact-compat) - Use any React library with Preact *([full example](https://github.com/developit/preact-compat-example))*.
+- [Preact Render To String](https://github.com/preactjs/preact-render-to-string) - Universal rendering.
+- [Preact Markup](https://github.com/developit/preact-markup) - Render HTML & Custom Elements as JSX & Components.
+- [Preact Portal](https://github.com/developit/preact-portal) - Render Preact components into (a) SPACE.
+- [Preact Richtextarea](https://github.com/developit/preact-richtextarea) - Simple HTML editor component.
 - [Preact Token Input](https://github.com/developit/preact-token-input) - Text field that tokenizes input, for things like tags.
 - [Preact Virtual List](https://github.com/developit/preact-virtual-list) - Easily render lists with millions of rows ([demo](https://jsfiddle.net/developit/qqan9pdo/)).
-- [Preact Cycle](https://git.io/preact-cycle) - Functional-reactive paradigm for Preact.
+- [Preact Cycle](https://github.com/developit/preact-cycle) - Functional-reactive paradigm for Preact.
 - [Preact Layout](https://download.github.io/preact-layout/) - Small and simple layout library.
 - [Preact Socrates](https://github.com/matthewmueller/preact-socrates) - Preact plugin for [Socrates](http://github.com/matthewmueller/socrates).
 - [Preact Flyd](https://github.com/xialvjun/preact-flyd) - Use [flyd](https://github.com/paldepind/flyd) FRP streams in Preact + JSX.
 - [Preact I18nline](https://github.com/download/preact-i18nline) - Integrates the ecosystem around [i18n-js](https://github.com/everydayhero/i18n-js) with Preact via [i18nline](https://github.com/download/i18nline).
-- [Preact MUI](https://git.io/v1aVO) - The MUI CSS Preact library.
-- [Preact MDL](https://git.io/preact-mdl) - Use [MDL](https://getmdl.io) as Preact components.
-- [Preact Photon](https://git.io/preact-photon) - Build beautiful desktop UI with [photon](http://photonkit.com).
+- [Preact MUI](https://github.com/luisvinicius167/preact-mui) - The MUI CSS Preact library.
+- [Preact MDL](https://github.com/developit/preact-mdl) - Use [MDL](https://getmdl.io) as Preact components.
+- [Preact Photon](https://github.com/developit/preact-photon) - Build beautiful desktop UI with [photon](http://photonkit.com).
 - [Preact Classless Component](https://github.com/ld0rman/preact-classless-component) - Create preact components without the class keyword.
 - [Preact Hyperscript](https://github.com/queckezz/preact-hyperscript) - Hyperscript-like syntax for creating elements.
 - [Shallow Compare](https://github.com/tkh44/shallow-compare) - Simplified `shouldComponentUpdate` helper.
@@ -111,7 +111,7 @@
 
 
 ### Testing Utils
-- [Preact JSX Chai](https://git.io/preact-jsx-chai) - JSX assertion testing _(no DOM, right in Node)_.
+- [Preact JSX Chai](https://github.com/developit/preact-jsx-chai) - JSX assertion testing _(no DOM, right in Node)_.
 - [Preact Render Spy](https://github.com/mzgoddard/preact-render-spy) - Render Preact components with access to the produced virtual dom for testing.
 - [Preact Test Utils](https://github.com/windyGex/preact-test-utils) - Mock react-test-utils enzyme in preact.
 - [Preact Testing Library](https://github.com/antoaravinth/preact-testing-library) - Simple and complete Preact DOM testing utilities that encourage good testing practices.
