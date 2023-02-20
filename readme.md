@@ -161,6 +161,7 @@
 - [**macOS Web**](https://macos-preact.now.sh) - macOS Big Sur Desktop experience for Web, built with Preact and Vite _([Github project](https://github.com/PuruVJ/macos-preact))_.
 - [**Cinemate**](https://cinemate.me) - Movie Recommender System built with Preact and TypeScript. Backend written in Rust.
 - [**Windows 11 Web**](https://win11.vercel.app) - Awe-amazing Windows 11 clone for the web! ⚡ _([Github project](https://github.com/PiyushSuthar/Windows-11-Web))_.
+- [**ProtoText**](https://prototext.app/) - An app to unload the mental stack & interact with ChatGPT in a non-linear way. Built using Preact, OpenAI API, Electron._([Bitbucket project](https://bitbucket.org/svgsprite/prototext/src/master/))_.
 
 ### Related Libraries
 - [React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
