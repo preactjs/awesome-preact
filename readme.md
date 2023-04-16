@@ -136,6 +136,7 @@
 - [Golazon](https://github.com/sobstel/golazon) - Football data mnmlist way.
 - [Shopping List](https://github.com/ibm-watson-data-lab/shopping-list-preact-pouchdb) - Progressive Web App Built Using Preact and PouchDB.
 - [Code and Comment](https://github.com/code-and-comment/code-and-comment) - The application to add the comments to a file in Github ([demo](https://code-and-comment.github.io/code-and-comment/)).
+- [**Idea Keeper**](https://miftikcz.github.io/idea-keeper-2) :brain: Highly extensible and minimalistic idea keeping app _([GitHub Project](https://github.com/MiftikCZ/idea-keeper-2))_.
 - [**Play.cash**](https://play.cash) :notes: _([GitHub Project](https://github.com/feross/play.cash))_
 - [**Songsterr**](https://www.songsterr.com) 🎼 Using Preact X in production since 10.0 alpha
 - [**BitMidi**](https://bitmidi.com/) 🎹 Wayback machine for free MIDI files _([GitHub Project](https://github.com/feross/bitmidi.com))_
