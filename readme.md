@@ -48,6 +48,7 @@
 - [Preact Chrome Extension](https://github.com/debdut/preact-chrome-extension) - A Full Feature Preact Chrome Extension Starter Kit.
 - [Preact Web Extension](https://github.com/PiyushSuthar/preact-webext) - ⚡️ WebExtension Vite Starter Template with Preact.
 - [Preact Neutralino TypeScript Starter](https://github.com/ernest-rudnicki/preact-neutralino-typescript-starter) - Starter project for building lightweight desktop applications with Preact and neutralino.js.
+- [Simple Deno Starter](https://github.com/nesterow/minizavr) - Tiny starter template with Preact and Deno for building single page applications.
 
 ### Routing
 - [Preact Router](https://github.com/developit/preact-router) - URL router for Preact.
@@ -98,6 +99,7 @@
 - [Pant](https://github.com/webyom/pant) - Mobile UI Components built on Preact *([docs and demos](https://webyom.github.io/pant))*. Ported from awesome Vue components of [Vant](https://github.com/youzan/vant).
 - [Preact Transitioning](https://github.com/fakundo/preact-transitioning) - Exposes Preact components for easily implementing basic CSS animations and transitions.
 - [Preact Nominal Allocator](https://github.com/TimDaub/preact-nominal-allocator) - A numerical input element that can also manipulated with two buttons (-/+).
+- [Tailored Components](https://github.com/nesterow/tailored) - Unstyled components and hooks for Preact & Deno.
 
 ### Libraries
 - [Redux Zero](https://github.com/concretesolutions/redux-zero) - A lightweight state container based on Redux with a single store and no reducers.
