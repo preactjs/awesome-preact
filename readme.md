@@ -100,6 +100,7 @@
 - [Preact Transitioning](https://github.com/fakundo/preact-transitioning) - Exposes Preact components for easily implementing basic CSS animations and transitions.
 - [Preact Nominal Allocator](https://github.com/TimDaub/preact-nominal-allocator) - A numerical input element that can also manipulated with two buttons (-/+).
 - [Tailored Components](https://github.com/nesterow/tailored) - Unstyled components and hooks for Preact & Deno.
+- [Plotery](https://shelacek.bitbucket.io/plotery) - Fast and lightweight charting library.
 - [Formica](https://shelacek.bitbucket.io/formica) - Simple declarative forms for Preact.
 
 ### Libraries
