@@ -168,6 +168,7 @@
 - [Cinemate](https://cinemate.me) - Movie Recommender System built with Preact and TypeScript. Backend written in Rust.
 - [Windows 11 Web](https://win11.vercel.app) - Awe-amazing Windows 11 clone for the web! ⚡ _([Github project](https://github.com/PiyushSuthar/Windows-11-Web))_.
 - [Idea Keeper](https://miftikcz.github.io/idea-keeper-2) :brain: Highly extensible and minimalistic idea keeping app _([GitHub Project](https://github.com/MiftikCZ/idea-keeper-2))_.
+- [Trellith](https://github.com/sakihet/trellith) - Tiny Trello Clone PWA.
 
 ### Related Libraries
 - [React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
