@@ -7,21 +7,18 @@
 [Preact](https://github.com/developit/preact) is a fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
 
 ## Contents
-- [Awesome Preact ](#awesome-preact-)
-  - [Contents](#contents)
-    - [Community](#community)
-    - [Toolkits](#toolkits)
-    - [Boilerplates](#boilerplates)
-    - [Routing](#routing)
-    - [Components](#components)
-    - [Libraries](#libraries)
-    - [Testing Utils](#testing-utils)
-    - [Articles](#articles)
-    - [Example Apps](#example-apps)
-    - [Related Libraries](#related-libraries)
-    - [Tips](#tips)
-    - [Contribution](#contribution)
-    - [License](#license)
+- [Community](#community)
+- [Toolkits](#toolkits)
+- [Boilerplates](#boilerplates)
+- [Routing](#routing)
+- [Components](#components)
+- [Libraries](#libraries)
+- [Testing Utils](#testing-utils)
+- [Articles](#articles)
+- [Example Apps](#example-apps)
+- [Real Apps](https://preactjs.com/about/we-are-using)
+- [Related Libraries](#related-libraries)
+- [Tips](#tips)
 
 ### Community
 - [Slack](https://chat.preactjs.com/) (Discussion Forum)
