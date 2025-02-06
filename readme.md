@@ -116,7 +116,7 @@
 - [Modular Forms](https://github.com/fabian-hiller/modular-forms) - Modular, type-safe and signal based form library for Preact.
 - [exome](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 - [Fastro](https://fastro.deno.dev) - Fast & Modular SSR Web Framework for Deno, TypeScript, Preact & Tailwind.
-- [pretch](https://github.com/EGAMAGZ/pretch) - A lightweight and flexible fetch enhancement library that works with vanilla JavaScript, React, and Preact
+- [Pretch](https://github.com/EGAMAGZ/pretch) - A lightweight and flexible fetch enhancement library that works with vanilla JavaScript, React, and Preact
 
 
 ### Testing Utils
