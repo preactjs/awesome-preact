@@ -116,6 +116,7 @@
 - [Modular Forms](https://github.com/fabian-hiller/modular-forms) - Modular, type-safe and signal based form library for Preact.
 - [exome](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 - [Fastro](https://fastro.deno.dev) - Fast & Modular SSR Web Framework for Deno, TypeScript, Preact & Tailwind.
+- [Jotai](https://github.com/pmndrs/jotai) - Primitive and flexible state management for React & Preact
 
 
 ### Testing Utils
