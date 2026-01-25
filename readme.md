@@ -102,6 +102,7 @@
 - [Tailored Components](https://github.com/nesterow/tailored) - Unstyled components and hooks for Preact & Deno.
 - [Plotery](https://shelacek.bitbucket.io/plotery) - Fast and lightweight charting library.
 - [Formica](https://shelacek.bitbucket.io/formica) - Simple declarative forms for Preact.
+- [HelloCSV](https://hellocsv.github.io/HelloCSV/) - Modern, elegant, drop-in CSV importer, built in Preact. Flatfile alternative.
 - [Vski Table](https://table.vski.ai) - Datagrid component built with Preact.
 
 ### Libraries
