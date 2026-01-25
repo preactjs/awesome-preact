@@ -121,6 +121,7 @@
 - [Jotai](https://github.com/pmndrs/jotai) - Primitive and flexible state management for React & Preact.
 - [Pretch](https://github.com/EGAMAGZ/pretch) - A lightweight and flexible fetch enhancement library that works with vanilla JavaScript, React, and Preact
 - [Formisch](https://formisch.dev/preact/guides/introduction/) - A form library for Preact with focus on performance, type safety and bundle size.
+- [zikofy](https://github.com/zakarialaoui10/zikofy) - Turns Preact components into Zikojs `UIElement`.
 
 ### Testing Utils
 - [Preact JSX Chai](https://github.com/developit/preact-jsx-chai) - JSX assertion testing _(no DOM, right in Node)_.
@@ -180,6 +181,7 @@
 - [React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [Inferno](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces.
 - [Rax](https://github.com/alibaba/rax) - A universal React-compatible render engine.
+- [Zikojs](https://github.com/zakarialaoui10/zikojs) - A composable hyperscript-based UI library with bidirectional interoperability with Preact components.
 
 ### Tips
 Contribute some ;)
