@@ -104,6 +104,7 @@
 - [Formica](https://shelacek.bitbucket.io/formica) - Simple declarative forms for Preact.
 - [HelloCSV](https://hellocsv.github.io/HelloCSV/) - Modern, elegant, drop-in CSV importer, built in Preact. Flatfile alternative.
 - [Vski Table](https://table.vski.ai) - Datagrid component built with Preact.
+- [Kamod UI](https://github.com/kamod-ch/kamod-ui) - Lightweight Preact and Tailwind UI components (shadcn-style approach) *([demo](https://kamod-ch.github.io/kamod-ui/))*.
 
 ### Libraries
 - [Redux Zero](https://github.com/concretesolutions/redux-zero) - A lightweight state container based on Redux with a single store and no reducers.
