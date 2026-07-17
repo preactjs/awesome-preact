@@ -30,6 +30,7 @@
 - [Preact CLI](https://github.com/developit/preact-cli) - Build a Preact Progressive Web App in seconds.
 - [Vite](https://github.com/vitejs/vite) - Fast native-ESM powered web dev build tool for Preact, Vue or React.
 - [PreactPress](https://github.com/kamod-ch/preactpress) - Vite and Preact powered static site generator for docs, blogs, and marketing sites *([demo](https://kamod-ch.github.io/preactpress/))*.
+- [EviKit](https://codeberg.org/nykula/evikit) - Vite/Preact SSR framework for small web apps. SQLite ORM, OpenAPI validation, translation, SEO.
 - [nwb](https://github.com/insin/nwb) - Quick Development with React, Inferno or Preact.
 - [React App Rewire Preact](https://github.com/timarney/react-app-rewired) - Use Preact with create-react-app without ejecting.
 - [Preact CLI PostCSS](https://github.com/SaraVieira/preact-cli-postcss) - It removes the default postcss config on Preact CLI, so you can use postcss.config.js.
@@ -182,6 +183,7 @@
 - [Idea Keeper](https://miftikcz.github.io/idea-keeper-2) :brain: Highly extensible and minimalistic idea keeping app _([GitHub Project](https://github.com/MiftikCZ/idea-keeper-2))_.
 - [Trellith](https://trellith.sakih.net/) - Tiny Trello Clone PWA ([GitHub Project](https://github.com/sakihet/trellith)).
 - [Gladys Assistant](https://gladysassistant.com/) - A privacy-first, open-source home assistant _([GitHub Project](https://github.com/GladysAssistant/Gladys))_.
+- [Lanquiz](https://codeberg.org/nykula/lanquiz) - Host quizzes in LAN from a laptop (Import from Kahoot. Self-host during blackouts).
 
 ### Related Libraries
 - [React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
