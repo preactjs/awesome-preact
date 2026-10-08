@@ -51,6 +51,7 @@
 - [Preact Web Extension](https://github.com/PiyushSuthar/preact-webext) - ⚡️ WebExtension Vite Starter Template with Preact.
 - [Preact Neutralino TypeScript Starter](https://github.com/ernest-rudnicki/preact-neutralino-typescript-starter) - Starter project for building lightweight desktop applications with Preact and neutralino.js.
 - [Simple Deno Starter](https://github.com/nesterow/minizavr) - Tiny starter template with Preact and Deno for building single page applications.
+- [Extension.js Templates](https://github.com/extension-js/examples) - Preact starters for popup, new tab, content script and devtools pages, ready to run in Chrome, Edge, Firefox and Safari.
 
 ### Routing
 - [Preact Router](https://github.com/developit/preact-router) - URL router for Preact.
