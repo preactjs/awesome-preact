@@ -112,6 +112,7 @@
 - [Preact Filter Builder](https://github.com/dimidd/preact-filter-builder) - A reusable Preact-based filter builder UI component with AND/OR boolean connectors *([demo](https://cute-empanada-425012.netlify.app/))*.
 - [I18n Micro](https://github.com/s00d/nuxt-i18n-micro/tree/main/packages/preact) - Lightweight Preact bindings for i18n-micro (hooks, context, and UI components).
 - [@zikojs/preact-console](https://github.com/zikojs/console/tree/main/packages/integrations/preact) - A console-like UI component for Preact that renders JavaScript console output directly inside your application.
+- [RevoGrid Pivot](https://github.com/revolist/pivot) - Pivot tables and analytical reporting for the `<revo-grid>` custom element. Commercial with a 30-day trial.
 
 ### Libraries
 - [Redux Zero](https://github.com/concretesolutions/redux-zero) - A lightweight state container based on Redux with a single store and no reducers.
