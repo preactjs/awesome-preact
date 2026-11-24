@@ -195,6 +195,7 @@
 - [Lanquiz](https://codeberg.org/nykula/lanquiz) - Host quizzes in LAN from a laptop (Import from Kahoot. Self-host during blackouts).
 - [Authier](https://www.authier.pm/) - Open-source password manager with Preact-powered autofill and password-generation interfaces in its browser extension *([GitHub Project](https://github.com/authier-pm/authier))*.
 - [Couscous](https://couscous.ai/play) - Secret-word guessing game; the web game and its Telegram Mini App are one Preact client built with Vite.
+- [ligungi](https://ligungi.org) - Play Gungi, the HUNTER×HUNTER strategy board game, online: real-time games over WebSockets, a bot in a Web Worker and a framework-free board, with prerendered public pages _([GitHub Project](https://github.com/beater-studios/ligungi))_.
 
 ### Related Libraries
 - [React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
