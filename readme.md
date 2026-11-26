@@ -118,6 +118,7 @@
 - [RevoGrid Charts](https://github.com/revolist/charts) - Interactive charts with a DOM-container API and a custom-element adapter example. Commercial with a 30-day trial.
 - [RevoGrid Scheduler](https://github.com/revolist/scheduler) - Calendar and resource scheduling for the `<revo-grid>` custom element. Commercial with a 30-day trial.
 - [Revo UI](https://github.com/revolist/revo-ui) - MIT-licensed Preact UI components for reports and dashboards, including form controls, pickers, and dialogs.
+- [Clio.css Preact](https://github.com/surfine/clio.css/tree/main/packages/preact) - Preact components for clio.css, which draws Classic Mac OS and NeXTSTEP windows, menus and controls.
 
 ### Libraries
 - [Redux Zero](https://github.com/concretesolutions/redux-zero) - A lightweight state container based on Redux with a single store and no reducers.
@@ -196,6 +197,7 @@
 - [Authier](https://www.authier.pm/) - Open-source password manager with Preact-powered autofill and password-generation interfaces in its browser extension *([GitHub Project](https://github.com/authier-pm/authier))*.
 - [Couscous](https://couscous.ai/play) - Secret-word guessing game; the web game and its Telegram Mini App are one Preact client built with Vite.
 - [Ellaz](https://ellaz.fun/) - Free browser games for kids and grown-ups, an offline-capable PWA built on Preact (via preact/compat) and Phaser. _([GitHub project](https://github.com/Sigmafier/ellaz-games))_.
+- [Wiro AI Browser Extension](https://wiro.ai/browser-extension) - Runs AI models on images, video, audio and text from the right-click menu; its side panel is a Preact app shared by the Chromium, Firefox and Safari builds _([GitHub Project](https://github.com/wiroai/Wiro-Extension-Core))_.
 
 ### Related Libraries
 - [React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
