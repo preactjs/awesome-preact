@@ -118,6 +118,7 @@
 - [RevoGrid Charts](https://github.com/revolist/charts) - Interactive charts with a DOM-container API and a custom-element adapter example. Commercial with a 30-day trial.
 - [RevoGrid Scheduler](https://github.com/revolist/scheduler) - Calendar and resource scheduling for the `<revo-grid>` custom element. Commercial with a 30-day trial.
 - [Revo UI](https://github.com/revolist/revo-ui) - MIT-licensed Preact UI components for reports and dashboards, including form controls, pickers, and dialogs.
+- [QRdx](https://github.com/qrdxinc/qrdx/tree/main/packages/qrdx) - Styled QR code components for Preact (`qrdx/preact`) with dot and eye patterns, gradients, logos and frames, drawn as SVG without `preact/compat`.
 - [Clio.css Preact](https://github.com/surfine/clio.css/tree/main/packages/preact) - Preact components for clio.css, which draws Classic Mac OS and NeXTSTEP windows, menus and controls.
 
 ### Libraries
